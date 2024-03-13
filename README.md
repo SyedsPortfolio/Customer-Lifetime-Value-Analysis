@@ -1,6 +1,6 @@
 # Customer-Lifetime-Value-Analysis
 
-![98834Capture](https://github.com/SyedsPortfolio/Customer-Lifetime-Value-Analysis/assets/147240839/55c411dd-fc94-4ea0-96b9-a9dc90089582)
+![Customer-Lifetime-Value-Template-2](https://github.com/SyedsPortfolio/Customer-Lifetime-Value-Analysis/assets/147240839/a43a6401-634b-4606-965b-eed1b976b2a7)
 
 #### Tools used🛠: Python, Pandas, Plotly
 🔗dataset link --> https://statso.io/customer-lifetime-value-analytics-case-study/
